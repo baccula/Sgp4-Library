@@ -1,0 +1,11 @@
+{
+  "name":"Sgp4",
+  "description":"Satelite Positioning library for Sattrack ESP8266 Project",
+  "keywords":"sattrack,sgp4",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/baccula/Sgp4-Library.git"
+  },
+  "version": "1.0.0"
+}
